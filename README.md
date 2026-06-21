@@ -20,6 +20,9 @@ This project simulates a real-world football ticketing platform where fans can r
 
 ## Database Schema
 
+## Draw.io Link
+https://drive.google.com/file/d/1wCleQwL0mPXS0s715zQMSMWwMl3kHxCp/view?usp=sharing
+
 ### Users Table
 
 Stores registered football fans.
